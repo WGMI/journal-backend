@@ -2,7 +2,10 @@
 
 A secure and scalable Node.js backend for a journaling application. Built with Express, Prisma, and MySQL.
 
+Technical Documentation can be found at: https://docs.google.com/document/d/1UxjyiD81-2mbiKeJvVjwF1k3ocuKiamnIpoIg6Gr5a4/edit?usp=sharing
+
 ## 🚀 Features
+
 
 - User registration and login with JWT
 - Create, read, update, delete journal entries
